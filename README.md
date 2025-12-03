@@ -59,7 +59,7 @@ buttons should allow you to run the tests!
 
 # Spec
 
-In this assignment, you’ll work on `RedBlackTree.java`.
+In this assignment, you’ll work in `RedBlackTree.java`.
 
 ## File Structure 
 
