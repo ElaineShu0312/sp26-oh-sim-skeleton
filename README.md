@@ -8,7 +8,7 @@ situation.
 
 During the 10-15 minute simulation, one of the interviewers will
 be acting as a student in office hours who requires assistance on
-a hash maps assignment. The student will have a partial
+this assignment. The student will have a partial
 implementation, so your goal is identify where the student is
 struggling and assist them! The goal is not to find the most bugs,
 but to help the student learn as much as they can.
